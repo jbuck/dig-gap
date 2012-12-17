@@ -1,0 +1,9 @@
+{
+  "name": "dig-gap",
+  "version": "0.1.0",
+  "description": "Ducksboard Integrated Git Graph Application Proxy",
+  "dependencies": {
+    "ducksnode": "~0.1.0",
+    "request": "~2.12.0"
+  }
+}
