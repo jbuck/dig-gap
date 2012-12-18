@@ -1,10 +1,16 @@
 {
   "repos": [
     {
-      "owner": "jbuck",
+      "owner": "mozilla",
       "repo": "popcorn-js",
       "period": 1,
-      "widget": "100290"
+      "widget": "100510"
+    },
+    {
+      "owner": "mozilla",
+      "repo": "butter",
+      "period": 1,
+      "widget": "100511"
     }
   ]
 }
